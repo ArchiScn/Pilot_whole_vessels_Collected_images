@@ -18,10 +18,9 @@ Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;162&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Note, that zip files with images of pots are password protected and accessing the images requires authorisation from the Museum of London. Requests for password should be sent by email to Prof P.M. Allison (pma9@leicester.ac.uk) with a brief description of assumed usage.
 
-The authors would like to thank the AHRC for funding the Arch-I-Scan project with 527 grant AH/T001003/1.
+The authors would like to thank the AHRC for funding the Arch-I-Scan Project ( Grant AH/T001003/1)
 
-We would also like to thank the Museum of London and their staff (specifically Roy Stephenson and Nicola Fyfe) for granting us access to the collection, Fiona Seeley for expert
-pottery advice and identification, and Gabriel Florea and Alessandra Pegurri for helping with photography. We are especially grateful to team member Victoria Szafara for her assistance in this photographing programme.
+We would also like to thank the Museum of London, and specifically their staff Roy Stephenson and Nicola Fyfe, for granting us access to the collection; Fiona Seeley (Museum of London Archaeology) for expert pottery advice and identification; Gabriel Florea and Alessandra Pegurri (University of Leicester post-graduate students) for helping with photography; and team member Victoria Szafara for her assistance in this photographing programme.
 
 Please cite this dataset as
 
