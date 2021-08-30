@@ -24,4 +24,4 @@ We would also like to thank the Museum of London, and specifically their staff R
 
 Please cite this dataset as
 
-Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. https://github.com/ArchiScn/Access, 2021.
+Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Museum of London vessel collection. https://github.com/ArchiScn/Collected_images, 2021.
