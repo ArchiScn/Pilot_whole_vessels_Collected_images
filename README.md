@@ -16,7 +16,10 @@ Dr37&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nb
 Dr38&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;229<br>
 Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;162&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5308<br>
 
-Note, that zip files with images of pots are password protected and accessing the images requires authorisation from the Museum of London. Requests for password should be sent by email to Prof P.M. Allison (pma9@leicester.ac.uk) with a brief description of assumed usage.
+Note, that zip files with images of pots are password protected.
+- The Museum of London delegates to Archi-I-Scan the approval of access to and the publication of images by academic researchers for use in research and academic publications. 
+- Any other access or uses outside academic research/publications would need the museum’s approval.
+Requests for access should be sent by email to Prof P.M. Allison (pma9@leicester.ac.uk) with a brief description of proposed usage.
 
 The authors would like to thank the AHRC for funding the Arch-I-Scan Project ( Grant AH/T001003/1)
 
