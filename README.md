@@ -28,4 +28,4 @@ We would also like to thank the Museum of London, and specifically their staff R
 
 ## Citation of Arch-I-Scan project data
 Please cite this dataset as<br>
-Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Avaiulable online https://github.com/ArchiScn/Access, 2025.
+Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Available online https://github.com/ArchiScn/Access, 2025.
