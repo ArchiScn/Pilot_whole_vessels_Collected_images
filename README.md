@@ -21,10 +21,11 @@ Note, that zip files with images of pots are password protected.
 - Any other access or uses outside academic research/publications would need the museum’s approval.
 Requests for access should be sent by email to Prof P.M. Allison (pma9@leicester.ac.uk) with a brief description of proposed usage.
 
-The authors would like to thank the AHRC for funding the Arch-I-Scan Project ( Grant AH/T001003/1)
+## Acknowledgment
+The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
 
 We would also like to thank the Museum of London, and specifically their staff Roy Stephenson and Nicola Fyfe, for granting us access to the collection; Fiona Seeley (Museum of London Archaeology) for expert pottery advice and identification; Gabriel Florea and Alessandra Pegurri (University of Leicester post-graduate students) for helping with photography; and team member Victoria Szafara for her assistance in this photographing programme.
 
-Please cite this dataset as
-
-Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Museum of London vessel collection. https://github.com/ArchiScn/Collected_images, 2021.
+## Citation of Arch-I-Scan project data
+Please cite this dataset as<br>
+Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Avaiulable online https://github.com/ArchiScn/Access, 2025.
