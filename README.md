@@ -17,7 +17,7 @@ Dr38&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nb
 Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;162&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5308<br>
 
 ## Acknowledgements
-The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the London Museum for access to their Roman ceramic collections. We would also like to thank specifically the Museum’s staff Roy Stephenson and Nicola Fyfe, for granting us access to the collection, and Fiona Seeley (Museum of London Archaeology) for specialist pottery advice and identification.
+: The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the London Museum for permission to photograph their Roman ceramic collections. We would also like to thank specifically the Museum’s staff Roy Stephenson for granting this permission, and Nicola Fyfe for assistance with our photographing programme in this collection, and Fiona Seeley (Museum of London Archaeology) for specialist pottery advice and identification.
 
 ## Citation for the Arch-I-Scan Project Repositories
 Please cite this repository as<br>
